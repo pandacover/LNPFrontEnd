@@ -1,0 +1,21 @@
+*{
+    font-family: 'Nunito Sans','SF Pro Text','SF Pro Icons',Roboto,'Helvetica Neue',Helvetica,Arial,sans-serif !important;
+}
+
+.mr-auto li a {
+    color: black !important;
+}
+
+
+.brand-image {
+    width: 109px;
+}
+
+.navbar-conatainer {
+    display: flex;
+    flex-flow: column;
+}
+
+.s-script {
+    font-size: 14px;
+}
